@@ -1,7 +1,7 @@
 .version.projects /* version checker */
 {
-	color: #0000E3;
-	background-color: #09C89D;
+	color: #00001F;
+	background-color: #15EBF2;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 963px;
-	min-height: 961px;
+	min-height: 1204px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -116,9 +116,9 @@
 	width: 103px;
 	min-height: 33px;
 	background-color: transparent;
+	line-height: 29px;
 	color: #FFFFFF;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 602px;
 	position: relative;
@@ -379,9 +379,9 @@
 	width: 705px;
 	min-height: 53px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 16px;
 	position: relative;
@@ -427,7 +427,7 @@
 	z-index: 28;
 	min-height: 189px;
 	margin-bottom: -259px;
-	margin-top: 1064px;
+	margin-top: 1204px;
 }
 
 body
@@ -441,6 +441,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -1064px;
+	margin-bottom: -1204px;
 }
 

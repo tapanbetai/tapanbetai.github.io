@@ -1,7 +1,7 @@
 .version.teaching /* version checker */
 {
-	color: #0000FE;
-	background-color: #98FA7C;
+	color: #000012;
+	background-color: #25DF24;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 963px;
-	min-height: 961px;
+	min-height: 1244px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -116,10 +116,10 @@
 	width: 247px;
 	min-height: 43px;
 	background-color: transparent;
+	line-height: 29px;
 	color: #FFFFFF;
 	font-size: 24px;
 	text-align: right;
-	line-height: 29px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 501px;
 	position: relative;
@@ -131,9 +131,9 @@
 	width: 728px;
 	min-height: 216px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 15px;
 	position: relative;
@@ -195,9 +195,9 @@
 	width: 728px;
 	min-height: 53px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 19px;
 	position: relative;
@@ -243,7 +243,7 @@
 	z-index: 28;
 	min-height: 189px;
 	margin-bottom: -259px;
-	margin-top: 1064px;
+	margin-top: 1244px;
 }
 
 body
@@ -257,6 +257,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -1064px;
+	margin-bottom: -1244px;
 }
 

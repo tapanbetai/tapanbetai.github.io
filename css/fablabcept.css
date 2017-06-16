@@ -1,7 +1,7 @@
 .version.fablabcept /* version checker */
 {
-	color: #000002;
-	background-color: #4F9853;
+	color: #000012;
+	background-color: #08BD81;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 963px;
-	min-height: 961px;
+	min-height: 1260px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -117,10 +117,10 @@
 	width: 289px;
 	min-height: 40px;
 	background-color: transparent;
+	line-height: 29px;
 	color: #FFFFFF;
 	font-size: 24px;
 	text-align: right;
-	line-height: 29px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 438px;
 	position: relative;
@@ -132,10 +132,10 @@
 	width: 727px;
 	min-height: 116px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
 	text-align: justify;
-	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 6px;
 	position: relative;
@@ -164,10 +164,10 @@
 	width: 727px;
 	min-height: 138px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
 	text-align: justify;
-	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 14px;
 	position: relative;
@@ -201,10 +201,10 @@
 	width: 727px;
 	min-height: 157px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
 	text-align: justify;
-	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 13px;
 	position: relative;
@@ -255,7 +255,7 @@
 	z-index: 28;
 	min-height: 189px;
 	margin-bottom: -259px;
-	margin-top: 1064px;
+	margin-top: 1260px;
 }
 
 body
@@ -269,6 +269,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -1064px;
+	margin-bottom: -1260px;
 }
 
