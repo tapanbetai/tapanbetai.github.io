@@ -7,9 +7,9 @@
 #u81-4
 {
 	background-color: transparent;
-	font-size: 50px;
 	line-height: 60px;
 	color: #337885;
+	font-size: 50px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -18,21 +18,21 @@
 #u84-4
 {
 	background-color: transparent;
-	font-size: 40px;
 	line-height: 48px;
 	color: #993E13;
+	font-size: 40px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
 }
 
-#u86-4,#u133-4,#u90-4
+#u133-4,#u90-4
 {
 	background-color: transparent;
-	font-size: 24px;
-	text-align: right;
 	line-height: 29px;
 	color: #337885;
+	font-size: 24px;
+	text-align: right;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -40,10 +40,10 @@
 #u89-4,#u94-4
 {
 	background-color: transparent;
-	font-size: 24px;
-	text-align: right;
 	line-height: 29px;
 	color: #993E13;
+	font-size: 24px;
+	text-align: right;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -52,5 +52,41 @@
 {
 	background-color: #337885;
 	position: relative;
+}
+
+#u352
+{
+	background-color: #FFFFFF;
+}
+
+#u352_align_to_page
+{
+	position: relative;
+}
+
+#u353-4
+{
+	background-color: transparent;
+	line-height: 60px;
+	color: #337885;
+	font-size: 50px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#u362-14
+{
+	background-color: transparent;
+	line-height: 24px;
+	color: #993E13;
+	font-size: 20px;
+	text-align: right;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#u362-10
+{
+	color: #337885;
 }
 

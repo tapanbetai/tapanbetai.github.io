@@ -1,7 +1,7 @@
 .version.study_and_model_making_for_adding_a_convertible_roof_to_current_indian_two_wheeler_for_hot_summers /* version checker */
 {
-	color: #0000F1;
-	background-color: #85B570;
+	color: #000018;
+	background-color: #360AD9;
 }
 
 .html
@@ -13,11 +13,12 @@
 {
 	z-index: 1;
 	width: 963px;
-	min-height: 630px;
+	min-height: 960.5500000000002px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -25,7 +26,7 @@
 #page_position_content
 {
 	margin-top: -113px;
-	padding-bottom: 176px;
+	margin-bottom: -259px;
 	width: 0.01px;
 }
 
@@ -45,14 +46,14 @@
 
 #u294-4
 {
-	z-index: 35;
+	z-index: 50;
 	width: 742px;
 	min-height: 60px;
 	background-color: transparent;
+	line-height: 26px;
 	color: #FFFFFF;
 	font-size: 22px;
 	text-align: right;
-	line-height: 26px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -60,7 +61,7 @@
 
 #u306
 {
-	z-index: 39;
+	z-index: 54;
 	vertical-align: top;
 	width: 603px;
 	height: 3px;
@@ -78,7 +79,7 @@
 
 #pu300
 {
-	z-index: 34;
+	z-index: 49;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
@@ -115,13 +116,13 @@
 
 #u296-4
 {
-	z-index: 40;
+	z-index: 55;
 	width: 652px;
 	min-height: 36px;
 	background-color: transparent;
-	font-size: 20px;
 	line-height: 24px;
 	color: #FFFFFF;
+	font-size: 20px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 5px;
 	position: relative;
@@ -129,13 +130,13 @@
 
 #u304-4
 {
-	z-index: 56;
+	z-index: 71;
 	width: 539px;
 	min-height: 30px;
 	background-color: transparent;
-	font-size: 20px;
 	line-height: 24px;
 	color: #FFFFFF;
+	font-size: 20px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 170px;
 	position: relative;
@@ -150,13 +151,13 @@
 
 #u297-4
 {
-	z-index: 52;
+	z-index: 67;
 	width: 227px;
 	min-height: 36px;
 	background-color: transparent;
-	font-size: 20px;
 	line-height: 24px;
 	color: #993E13;
+	font-size: 20px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -165,13 +166,13 @@
 
 #u305-4
 {
-	z-index: 48;
+	z-index: 63;
 	width: 403px;
 	min-height: 36px;
 	background-color: transparent;
-	font-size: 20px;
 	line-height: 24px;
 	color: #FFFFFF;
+	font-size: 20px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -180,7 +181,7 @@
 
 #u323
 {
-	z-index: 32;
+	z-index: 47;
 	width: 741px;
 	background-color: transparent;
 	position: relative;
@@ -203,13 +204,13 @@
 
 #u301-4
 {
-	z-index: 44;
+	z-index: 59;
 	width: 272px;
 	min-height: 36px;
 	background-color: transparent;
-	font-size: 20px;
 	line-height: 24px;
 	color: #993E13;
+	font-size: 20px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -219,13 +220,13 @@
 
 #u299-4
 {
-	z-index: 60;
+	z-index: 75;
 	width: 227px;
 	min-height: 36px;
 	background-color: transparent;
-	font-size: 20px;
 	line-height: 24px;
 	color: #993F14;
+	font-size: 20px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -233,23 +234,38 @@
 	left: 495px;
 }
 
+#u339-20
+{
+	z-index: 87;
+	width: 711px;
+	min-height: 105px;
+	background-color: transparent;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 11px;
+	margin-top: 8px;
+	position: relative;
+}
+
 #u312
 {
-	z-index: 64;
-	width: 726px;
+	z-index: 79;
+	width: 732px;
 	background-color: transparent;
-	margin-left: 11px;
-	margin-top: 56px;
+	margin-left: 4px;
+	margin-top: 19px;
 	position: relative;
 }
 
 #u336
 {
-	z-index: 70;
+	z-index: 85;
 	width: 732px;
 	background-color: transparent;
 	margin-left: 5px;
-	margin-top: 35px;
+	margin-top: 24px;
 	position: relative;
 }
 
@@ -258,7 +274,7 @@
 	z-index: 2;
 	width: 162px;
 	margin-right: -10000px;
-	padding: 10px 6px 735px 120px;
+	padding: 10px 6px 777px 120px;
 }
 
 #u81-4
@@ -269,7 +285,7 @@
 	margin-left: 23px;
 }
 
-#u86-4
+#u89-4
 {
 	z-index: 11;
 	width: 106px;
@@ -280,10 +296,10 @@
 
 #u133-4
 {
-	z-index: 23;
+	z-index: 19;
 	width: 153px;
 	min-height: 42px;
-	margin-top: 122px;
+	margin-top: 80px;
 }
 
 #u84-4
@@ -296,39 +312,29 @@
 	left: 177px;
 }
 
-#u89-4
-{
-	z-index: 15;
-	width: 106px;
-	min-height: 42px;
-	margin-right: -10000px;
-	margin-top: 175px;
-	left: 167px;
-}
-
 #u90-4
 {
-	z-index: 19;
+	z-index: 15;
 	width: 153px;
 	min-height: 42px;
 	margin-right: -10000px;
-	margin-top: 217px;
+	margin-top: 175px;
 	left: 120px;
 }
 
 #u94-4
 {
-	z-index: 27;
+	z-index: 23;
 	width: 153px;
 	min-height: 38px;
 	margin-right: -10000px;
-	margin-top: 259px;
+	margin-top: 217px;
 	left: 120px;
 }
 
 #u92
 {
-	z-index: 31;
+	z-index: 27;
 	width: 288px;
 	height: 6px;
 	margin-right: -10000px;
@@ -337,30 +343,92 @@
 
 #u328
 {
-	z-index: 68;
+	z-index: 83;
 	width: 732px;
 	background-color: transparent;
 	margin-left: 226px;
-	margin-top: 18px;
+	margin-top: 24px;
 	position: relative;
 }
 
 #u318
 {
-	z-index: 66;
-	width: 729px;
+	z-index: 81;
+	width: 732px;
 	background-color: transparent;
-	margin-left: 226px;
-	margin-top: 18px;
+	margin-left: 225px;
+	margin-top: 24px;
 	position: relative;
+}
+
+#u341-9
+{
+	z-index: 107;
+	width: 711px;
+	min-height: 105px;
+	background-color: transparent;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 232px;
+	margin-top: 24px;
+	position: relative;
+}
+
+#u339-2,#u341-2,#u341-4,#u341-6
+{
+	text-align: justify;
+}
+
+#u352
+{
+	z-index: 28;
+	min-height: 189px;
+	padding-bottom: 70px;
+}
+
+#u352_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 963px;
+	left: -100px;
+}
+
+#u353-4
+{
+	z-index: 29;
+	width: 306px;
+	min-height: 73px;
+	margin-right: -10000px;
+	margin-top: 89px;
+	left: 20px;
+}
+
+#u362-14
+{
+	z-index: 33;
+	width: 409px;
+	min-height: 66px;
+	margin-right: -10000px;
+	margin-top: 69px;
+	left: 736px;
+}
+
+#u352-bw
+{
+	z-index: 28;
+	min-height: 189px;
+	margin-top: 103px;
 }
 
 body
 {
 	position: relative;
 	min-width: 963px;
-	padding-top: 119px;
-	padding-bottom: 27px;
+	padding-top: 113px;
+	padding-bottom: 254px;
 }
 
 #page .verticalspacer

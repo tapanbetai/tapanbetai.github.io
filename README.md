@@ -1,1 +1,0 @@
-# tapanbetai.github.io
