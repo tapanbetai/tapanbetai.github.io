@@ -1,7 +1,7 @@
 .version.study_and_model_making_for_adding_a_convertible_roof_to_current_indian_two_wheeler_for_hot_summers /* version checker */
 {
-	color: #000015;
-	background-color: #ACFCFC;
+	color: #0000F5;
+	background-color: #0EDD97;
 }
 
 .html
@@ -44,14 +44,14 @@
 
 #u294-4
 {
-	z-index: 51;
+	z-index: 55;
 	width: 742px;
 	min-height: 60px;
 	background-color: transparent;
 	line-height: 26px;
-	color: #FFFFFF;
 	font-size: 22px;
 	text-align: right;
+	color: #FFFFFF;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -59,7 +59,7 @@
 
 #u306
 {
-	z-index: 55;
+	z-index: 59;
 	vertical-align: top;
 	width: 603px;
 	height: 3px;
@@ -77,7 +77,7 @@
 
 #pu300
 {
-	z-index: 50;
+	z-index: 54;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
@@ -114,13 +114,13 @@
 
 #u296-4
 {
-	z-index: 56;
+	z-index: 60;
 	width: 652px;
 	min-height: 36px;
 	background-color: transparent;
+	font-size: 20px;
 	line-height: 24px;
 	color: #FFFFFF;
-	font-size: 20px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 5px;
 	position: relative;
@@ -128,13 +128,13 @@
 
 #u304-4
 {
-	z-index: 72;
+	z-index: 76;
 	width: 539px;
 	min-height: 30px;
 	background-color: transparent;
+	font-size: 20px;
 	line-height: 24px;
 	color: #FFFFFF;
-	font-size: 20px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 170px;
 	position: relative;
@@ -149,13 +149,13 @@
 
 #u297-4
 {
-	z-index: 68;
+	z-index: 72;
 	width: 227px;
 	min-height: 36px;
 	background-color: transparent;
+	font-size: 20px;
 	line-height: 24px;
 	color: #993E13;
-	font-size: 20px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -164,13 +164,13 @@
 
 #u305-4
 {
-	z-index: 64;
+	z-index: 68;
 	width: 403px;
 	min-height: 36px;
 	background-color: transparent;
+	font-size: 20px;
 	line-height: 24px;
 	color: #FFFFFF;
-	font-size: 20px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -179,7 +179,7 @@
 
 #u323
 {
-	z-index: 48;
+	z-index: 52;
 	width: 741px;
 	background-color: transparent;
 	position: relative;
@@ -202,13 +202,13 @@
 
 #u301-4
 {
-	z-index: 60;
+	z-index: 64;
 	width: 272px;
 	min-height: 36px;
 	background-color: transparent;
+	font-size: 20px;
 	line-height: 24px;
 	color: #993E13;
-	font-size: 20px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -218,13 +218,13 @@
 
 #u299-4
 {
-	z-index: 76;
+	z-index: 80;
 	width: 227px;
 	min-height: 36px;
 	background-color: transparent;
+	font-size: 20px;
 	line-height: 24px;
 	color: #993F14;
-	font-size: 20px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -234,13 +234,13 @@
 
 #u339-20
 {
-	z-index: 88;
+	z-index: 92;
 	width: 711px;
 	min-height: 105px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 11px;
 	margin-top: 8px;
@@ -310,9 +310,19 @@
 	left: 120px;
 }
 
-#u146
+#u429-4
 {
 	z-index: 27;
+	width: 153px;
+	min-height: 38px;
+	margin-right: -10000px;
+	margin-top: 297px;
+	left: 120px;
+}
+
+#u146
+{
+	z-index: 31;
 	width: 288px;
 	height: 6px;
 	margin-right: -10000px;
@@ -321,7 +331,7 @@
 
 #u312
 {
-	z-index: 80;
+	z-index: 84;
 	width: 732px;
 	background-color: transparent;
 	margin-left: 225px;
@@ -331,7 +341,7 @@
 
 #u336
 {
-	z-index: 86;
+	z-index: 90;
 	width: 732px;
 	background-color: transparent;
 	margin-left: 225px;
@@ -341,7 +351,7 @@
 
 #u328
 {
-	z-index: 84;
+	z-index: 88;
 	width: 732px;
 	background-color: transparent;
 	margin-left: 226px;
@@ -351,7 +361,7 @@
 
 #u318
 {
-	z-index: 82;
+	z-index: 86;
 	width: 732px;
 	background-color: transparent;
 	margin-left: 225px;
@@ -361,13 +371,13 @@
 
 #u341-9
 {
-	z-index: 108;
+	z-index: 112;
 	width: 711px;
 	min-height: 105px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 232px;
 	margin-top: 24px;
@@ -381,7 +391,7 @@
 
 #u410
 {
-	z-index: 28;
+	z-index: 32;
 	min-height: 149px;
 	padding-bottom: 16px;
 }
@@ -396,7 +406,7 @@
 
 #u411-4
 {
-	z-index: 29;
+	z-index: 33;
 	width: 311px;
 	min-height: 61px;
 	margin-right: -10000px;
@@ -406,7 +416,7 @@
 
 #u412-15
 {
-	z-index: 33;
+	z-index: 37;
 	width: 321px;
 	min-height: 96px;
 	margin-right: -10000px;
@@ -416,7 +426,7 @@
 
 #u410-bw
 {
-	z-index: 28;
+	z-index: 32;
 	min-height: 149px;
 	margin-top: 167px;
 }

@@ -7,9 +7,9 @@
 #u150-4
 {
 	background-color: transparent;
-	line-height: 60px;
 	color: #337885;
 	font-size: 50px;
+	line-height: 60px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -18,9 +18,9 @@
 #u149-4
 {
 	background-color: transparent;
-	line-height: 48px;
 	color: #993E13;
 	font-size: 40px;
+	line-height: 48px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -29,21 +29,21 @@
 #u153-4,#u147-4
 {
 	background-color: transparent;
-	line-height: 29px;
 	color: #337885;
 	font-size: 24px;
 	text-align: right;
+	line-height: 29px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
 
-#u151-4,#u154-4
+#u151-4,#u154-4,#u429-4
 {
 	background-color: transparent;
-	line-height: 29px;
 	color: #993E13;
 	font-size: 24px;
 	text-align: right;
+	line-height: 29px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -67,9 +67,9 @@
 #u411-4
 {
 	background-color: transparent;
+	font-size: 50px;
 	line-height: 60px;
 	color: #337885;
-	font-size: 50px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -77,9 +77,9 @@
 #u412-15
 {
 	background-color: transparent;
-	line-height: 19px;
 	color: #993E13;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }

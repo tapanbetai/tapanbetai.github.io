@@ -1,14 +1,17 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Tapanbetaii.github.io" resolutions="1x" timestamp="1497593702317">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Tapanbetaii.github.io" resolutions="1x" timestamp="1497597883981">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
-    <file name="master_b-copy.css" crc="520575890" ref="digitally-fabricated-wardrobe:teaching:index:projects:fablabcept"/>
-    <file name="master_b.css" crc="9370870" ref="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
-    <file name="digitally-fabricated-wardrobe.css" crc="3974774407" ref="digitally-fabricated-wardrobe"/>
-    <file name="teaching.css" crc="12074645" ref="teaching"/>
-    <file name="index.css" crc="4039360408" ref="index"/>
-    <file name="projects.css" crc="4261968971" ref="projects"/>
-    <file name="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers.css" crc="363658492" ref="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
-    <file name="fablabcept.css" crc="210788978" ref="fablabcept"/>
+    <file name="site_global.css" crc="453856629"/>
+    <file name="master_b-copy.css" crc="216682155" ref="teaching:projects:digitally-fabricated-wardrobe:fablabcept:index"/>
+    <file name="master_b.css" crc="3969081137" ref="teaching:study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers:projects:digitally-fabricated-wardrobe:fablabcept:index"/>
+    <file name="teaching.css" crc="506740764" ref="teaching"/>
+    <file name="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers.css" crc="4111392151" ref="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
+    <file name="projects.css" crc="70068529" ref="projects"/>
+    <file name="digitally-fabricated-wardrobe.css" crc="255380121" ref="digitally-fabricated-wardrobe"/>
+    <file name="fablabcept.css" crc="3864321587" ref="fablabcept"/>
+    <file name="index.css" crc="3793383879" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="tapan-betai-resume.pdf" crc="4246838491" seo="true" mt="1497462837000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:projects:fablabcept:teaching:digitally-fabricated-wardrobe:study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
@@ -37,10 +40,10 @@
     <file name="4.jpg" crc="3948650727" seo="true" ref="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
     <file name="2.jpg" crc="453230765" seo="true" ref="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
   </folder>
-  <file name="index.html" crc="3803612312" seo="true" mt="1497593581488" redirect="true"/>
-  <file name="projects.html" crc="3846895879" seo="true" mt="1497593581488" redirect="true"/>
-  <file name="fablabcept.html" crc="3895479491" seo="true" mt="1497593581488" redirect="true"/>
-  <file name="teaching.html" crc="108617188" seo="true" mt="1497593581488" redirect="true"/>
-  <file name="digitally-fabricated-wardrobe.html" crc="4208757410" seo="true" mt="1497593581488" redirect="true"/>
-  <file name="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers.html" crc="3816025281" seo="true" mt="1497593675221" redirect="true"/>
+  <file name="index.html" crc="480230370" seo="true" mt="1497597844846" redirect="true"/>
+  <file name="projects.html" crc="250411775" seo="true" mt="1497597844846" redirect="true"/>
+  <file name="fablabcept.html" crc="165807621" seo="true" mt="1497597844846" redirect="true"/>
+  <file name="teaching.html" crc="4148991272" seo="true" mt="1497597844846" redirect="true"/>
+  <file name="digitally-fabricated-wardrobe.html" crc="4293743981" seo="true" mt="1497597844846" redirect="true"/>
+  <file name="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers.html" crc="3769513556" seo="true" mt="1497597771204" redirect="true"/>
 </manifest>
