@@ -1,7 +1,7 @@
 .version.fablabcept /* version checker */
 {
-	color: #0000F9;
-	background-color: #3CEEAF;
+	color: #000002;
+	background-color: #4F9853;
 }
 
 .html
@@ -117,10 +117,10 @@
 	width: 289px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #FFFFFF;
 	font-size: 24px;
 	text-align: right;
+	line-height: 29px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 438px;
 	position: relative;
@@ -132,10 +132,10 @@
 	width: 727px;
 	min-height: 116px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
 	text-align: justify;
+	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 6px;
 	position: relative;
@@ -164,10 +164,10 @@
 	width: 727px;
 	min-height: 138px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
 	text-align: justify;
+	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 14px;
 	position: relative;
@@ -201,10 +201,10 @@
 	width: 727px;
 	min-height: 157px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
 	text-align: justify;
+	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 13px;
 	position: relative;

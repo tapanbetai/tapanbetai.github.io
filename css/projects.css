@@ -1,7 +1,7 @@
 .version.projects /* version checker */
 {
-	color: #0000E1;
-	background-color: #DFB4DF;
+	color: #0000E3;
+	background-color: #09C89D;
 }
 
 .html
@@ -116,9 +116,9 @@
 	width: 103px;
 	min-height: 33px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #FFFFFF;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 602px;
 	position: relative;
@@ -379,9 +379,9 @@
 	width: 705px;
 	min-height: 53px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 16px;
 	position: relative;

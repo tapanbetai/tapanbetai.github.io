@@ -1,7 +1,7 @@
 .version.teaching /* version checker */
 {
-	color: #000000;
-	background-color: #2C194A;
+	color: #0000FE;
+	background-color: #98FA7C;
 }
 
 .html
@@ -116,10 +116,10 @@
 	width: 247px;
 	min-height: 43px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #FFFFFF;
 	font-size: 24px;
 	text-align: right;
+	line-height: 29px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 501px;
 	position: relative;
@@ -131,9 +131,9 @@
 	width: 728px;
 	min-height: 216px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 15px;
 	position: relative;
@@ -195,9 +195,9 @@
 	width: 728px;
 	min-height: 53px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 19px;
 	position: relative;

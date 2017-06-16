@@ -1,7 +1,7 @@
 .version.digitally_fabricated_wardrobe /* version checker */
 {
-	color: #0000E6;
-	background-color: #8DA4C4;
+	color: #00001A;
+	background-color: #BFB810;
 }
 
 .html
@@ -184,9 +184,9 @@
 	width: 294px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #FFFFFF;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -197,9 +197,9 @@
 	width: 294px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #FFFFFF;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 108px;
 	position: relative;
@@ -211,9 +211,9 @@
 	width: 227px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #993E13;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 72px;
 	position: relative;
@@ -225,9 +225,9 @@
 	width: 317px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #993E13;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 48px;
 	position: relative;
@@ -239,9 +239,9 @@
 	width: 454px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #FFFFFF;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 5px;
 	position: relative;
@@ -269,9 +269,9 @@
 	width: 208px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #993E13;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -285,9 +285,9 @@
 	width: 153px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #FFFFFF;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -301,9 +301,9 @@
 	width: 227px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #FFFFFF;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -317,9 +317,9 @@
 	width: 249px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #FFFFFF;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -333,9 +333,9 @@
 	width: 77px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #993E13;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -349,9 +349,9 @@
 	width: 214px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #993F14;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -365,10 +365,10 @@
 	width: 711px;
 	min-height: 77px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
 	text-align: justify;
+	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 11px;
 	margin-top: 15px;
