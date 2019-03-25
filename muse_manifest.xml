@@ -1,50 +1,61 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Tapanbetaii.github.io" resolutions="1x" timestamp="1497601340898">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tapanbetai.com" resolutions="1x" timestamp="1553512327876">
   <folder name="css">
-    <file name="site_global.css" crc="453856629"/>
-    <file name="master_b-copy-copy.css" crc="261534887" ref="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
-    <file name="master_b.css" crc="252675337" ref="teaching:study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers:projects:digitally-fabricated-wardrobe:fablabcept:index"/>
-    <file name="master_b-copy.css" crc="216682155" ref="teaching:projects:digitally-fabricated-wardrobe:fablabcept:index"/>
-    <file name="teaching.css" crc="372743395" ref="teaching"/>
-    <file name="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers.css" crc="301751635" ref="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
-    <file name="projects.css" crc="4210659024" ref="projects"/>
-    <file name="digitally-fabricated-wardrobe.css" crc="3982002746" ref="digitally-fabricated-wardrobe"/>
-    <file name="fablabcept.css" crc="8517851" ref="fablabcept"/>
-    <file name="index.css" crc="4250598560" ref="index"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a.css" crc="50691781" ref="what-i-do:about:index"/>
+    <file name="what-i-do.css" crc="358561924" ref="what-i-do"/>
+    <file name="about.css" crc="466622908" ref="about"/>
+    <file name="index.css" crc="418768035" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="tapan-betai-resume.pdf" crc="4246838491" seo="true" mt="1497462837000"/>
+    <file name="tapan-betai-2019.pdf" crc="162346408" seo="true" mt="1553309723000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:projects:fablabcept:teaching:digitally-fabricated-wardrobe:study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
-    <file name="museutils.js" crc="183364071" ref="index:projects:fablabcept:teaching:digitally-fabricated-wardrobe:study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:projects:fablabcept:teaching:digitally-fabricated-wardrobe:study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
-    <file name="pie.js" crc="3827607177" ref="projects:digitally-fabricated-wardrobe:study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:what-i-do:about"/>
+    <file name="museutils.js" crc="3803043152" ref="index:what-i-do:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:what-i-do:about"/>
+    <file name="museconfig.js" crc="380897831" ref="index:what-i-do:about"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:what-i-do:about"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:what-i-do:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:what-i-do:about"/>
+    <file name="require.js" crc="4157109226" ref="index:what-i-do:about"/>
   </folder>
   <folder name="images">
-    <file name="fullsizerender-crop-u364.jpg" crc="4039068571" ref="index"/>
-    <file name="u155.png" crc="307022869" ref="index"/>
-    <file name="u160.png" crc="4092661131" ref="projects"/>
-    <file name="6-crop-u190.jpg" crc="70925997" ref="projects"/>
-    <file name="project.jpg" crc="4267136097" seo="true" ref="projects"/>
-    <file name="prjoect.jpg" crc="88886285" seo="true" ref="projects"/>
-    <file name="candle maker-fabacademy tapan betai-crop-u211.jpg" crc="3822806028" ref="projects"/>
-    <file name="030008ee.jpg" crc="4148251118" seo="true" ref="teaching"/>
-    <file name="030003f7-crop-u385.jpg" crc="3930336316" ref="teaching"/>
-    <file name="0300094d.jpg" crc="67235582" seo="true" ref="teaching"/>
-    <file name="03000951.jpg" crc="307388796" seo="true" ref="teaching"/>
-    <file name="u226.png" crc="487893183" ref="digitally-fabricated-wardrobe"/>
-    <file name="7-crop-u235.jpg" crc="3903634718" ref="digitally-fabricated-wardrobe"/>
-    <file name="u306.png" crc="487893183" ref="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
-    <file name="3.jpg" crc="529828726" seo="true" ref="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
-    <file name="1.jpg" crc="4159859614" seo="true" ref="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
-    <file name="3733x246.jpg" crc="499402802" seo="true" ref="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
-    <file name="4.jpg" crc="3948650727" seo="true" ref="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
-    <file name="2.jpg" crc="453230765" seo="true" ref="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers"/>
+    <file name="u1020-4.png" crc="127008113" ref="index:what-i-do:about"/>
+    <file name="blank.gif" crc="4208392903" ref="index:what-i-do:about"/>
+    <file name="u912.png" crc="445430299" ref="index:what-i-do:about"/>
+    <file name="u912-a.png" crc="278639327" ref="index:what-i-do:about"/>
+    <file name="u919.png" crc="4201827137" ref="index:what-i-do:about"/>
+    <file name="u919-a.png" crc="235908939" ref="index:what-i-do:about"/>
+    <file name="u977.png" crc="4007410078" ref="index:what-i-do:about"/>
+    <file name="u977-a.png" crc="4032516451" ref="index:what-i-do:about"/>
+    <file name="u1012.png" crc="4252400828" ref="index:what-i-do:about"/>
+    <file name="u1012-r.png" crc="4252400828" ref="index:what-i-do:about"/>
+    <file name="u1012-a.png" crc="4252400828" ref="index:what-i-do:about"/>
+    <file name="tapan betai-instagram-2.png" crc="4123831238" seo="true" ref="index:what-i-do:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="what-i-do" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="tapan betai linkedin.png" crc="3909901938" seo="true" ref="index:what-i-do:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="what-i-do" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="tapan betai-facebook-2.png" crc="4062920018" seo="true" ref="index:what-i-do:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="what-i-do" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="tapan betai twitter.png" crc="4238469005" seo="true" ref="index:what-i-do:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="what-i-do" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="img_20181028_080204-crop-u1153.jpg" crc="4007814155" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="337435572" seo="true" mt="1497601229326" redirect="true"/>
-  <file name="projects.html" crc="4227285671" seo="true" mt="1497601230586" redirect="true"/>
-  <file name="fablabcept.html" crc="4192636962" seo="true" mt="1497601233852" redirect="true"/>
-  <file name="teaching.html" crc="3833511182" seo="true" mt="1497601235226" redirect="true"/>
-  <file name="digitally-fabricated-wardrobe.html" crc="3968484987" seo="true" mt="1497601231438" redirect="true"/>
-  <file name="study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers.html" crc="4102083241" seo="true" mt="1497601279105" redirect="true"/>
+  <file name="index.html" crc="3780797406" seo="true" mt="1553512180672" redirect="true"/>
+  <file name="what-i-do.html" crc="133728607" seo="true" mt="1553512180676" redirect="true"/>
+  <file name="about.html" crc="152447591" seo="true" mt="1553512288295" redirect="true"/>
 </manifest>

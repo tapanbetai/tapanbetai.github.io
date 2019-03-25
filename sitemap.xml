@@ -1,104 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://Tapanbetaii.github.io/assets/tapan-betai-resume.pdf</loc>
-    <lastmod>2017-06-14</lastmod>
+    <loc>http://tapanbetai.com/index.html</loc>
+    <lastmod>2019-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tapanbetai.com/images/tapan%20betai-instagram-2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tapanbetai.com/images/tapan%20betai%20linkedin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tapanbetai.com/images/tapan%20betai-facebook-2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tapanbetai.com/images/tapan%20betai%20twitter.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://Tapanbetaii.github.io/images/project.jpg</loc>
-    <lastmod>2017-06-16</lastmod>
+    <loc>http://tapanbetai.com/what-i-do.html</loc>
+    <lastmod>2019-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tapanbetai.com/images/tapan%20betai-instagram-2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tapanbetai.com/images/tapan%20betai%20linkedin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tapanbetai.com/images/tapan%20betai-facebook-2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tapanbetai.com/images/tapan%20betai%20twitter.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://Tapanbetaii.github.io/images/prjoect.jpg</loc>
-    <lastmod>2017-06-16</lastmod>
+    <loc>http://tapanbetai.com/about.html</loc>
+    <lastmod>2019-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tapanbetai.com/images/tapan%20betai-instagram-2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tapanbetai.com/images/tapan%20betai%20linkedin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tapanbetai.com/images/tapan%20betai-facebook-2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tapanbetai.com/images/tapan%20betai%20twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tapanbetai.com/images/img_20181028_080204-crop-u1153.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://Tapanbetaii.github.io/images/030008ee.jpg</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tapanbetaii.github.io/images/0300094d.jpg</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tapanbetaii.github.io/images/03000951.jpg</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tapanbetaii.github.io/images/3.jpg</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tapanbetaii.github.io/images/1.jpg</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tapanbetaii.github.io/images/3733x246.jpg</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tapanbetaii.github.io/images/4.jpg</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tapanbetaii.github.io/images/2.jpg</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tapanbetaii.github.io/index.html</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tapanbetaii.github.io/projects.html</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tapanbetaii.github.io/fablabcept.html</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tapanbetaii.github.io/teaching.html</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tapanbetaii.github.io/digitally-fabricated-wardrobe.html</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tapanbetaii.github.io/study-and-model-making-for-adding-a-convertible-roof-to-current-indian-two-wheeler-for-hot-summers.html</loc>
-    <lastmod>2017-06-16</lastmod>
+    <loc>http://tapanbetai.com/assets/tapan-betai-2019.pdf</loc>
+    <lastmod>2019-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
