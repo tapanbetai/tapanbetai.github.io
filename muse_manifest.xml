@@ -1,10 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tapanbetai.com" resolutions="1x" timestamp="1553512327876">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tapanbetai.com" resolutions="1x" timestamp="1553568800454">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a.css" crc="50691781" ref="what-i-do:about:index"/>
-    <file name="what-i-do.css" crc="358561924" ref="what-i-do"/>
-    <file name="about.css" crc="466622908" ref="about"/>
-    <file name="index.css" crc="418768035" ref="index"/>
+    <file name="master_a.css" crc="85128994" ref="index"/>
+    <file name="master_a-copy.css" crc="3893303584" ref="what-i-do:about"/>
+    <file name="what-i-do.css" crc="4264514011" ref="what-i-do"/>
+    <file name="about.css" crc="66373327" ref="about"/>
+    <file name="index.css" crc="114683531" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="tapan-betai-2019.pdf" crc="162346408" seo="true" mt="1553309723000"/>
@@ -20,17 +21,17 @@
     <file name="require.js" crc="4157109226" ref="index:what-i-do:about"/>
   </folder>
   <folder name="images">
-    <file name="u1020-4.png" crc="127008113" ref="index:what-i-do:about"/>
+    <file name="u1020-4.png" crc="127008113" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:what-i-do:about"/>
-    <file name="u912.png" crc="445430299" ref="index:what-i-do:about"/>
-    <file name="u912-a.png" crc="278639327" ref="index:what-i-do:about"/>
-    <file name="u919.png" crc="4201827137" ref="index:what-i-do:about"/>
-    <file name="u919-a.png" crc="235908939" ref="index:what-i-do:about"/>
-    <file name="u977.png" crc="4007410078" ref="index:what-i-do:about"/>
-    <file name="u977-a.png" crc="4032516451" ref="index:what-i-do:about"/>
-    <file name="u1012.png" crc="4252400828" ref="index:what-i-do:about"/>
-    <file name="u1012-r.png" crc="4252400828" ref="index:what-i-do:about"/>
-    <file name="u1012-a.png" crc="4252400828" ref="index:what-i-do:about"/>
+    <file name="u912.png" crc="445430299" ref="index"/>
+    <file name="u912-a.png" crc="278639327" ref="index"/>
+    <file name="u919.png" crc="4201827137" ref="index"/>
+    <file name="u919-a.png" crc="235908939" ref="index"/>
+    <file name="u977.png" crc="4007410078" ref="index"/>
+    <file name="u977-a.png" crc="4032516451" ref="index"/>
+    <file name="u1012.png" crc="4252400828" ref="index"/>
+    <file name="u1012-r.png" crc="4252400828" ref="index"/>
+    <file name="u1012-a.png" crc="4252400828" ref="index"/>
     <file name="tapan betai-instagram-2.png" crc="4123831238" seo="true" ref="index:what-i-do:about">
       <caption webpage="index" alt=""/>
       <caption webpage="what-i-do" alt=""/>
@@ -51,11 +52,39 @@
       <caption webpage="what-i-do" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
+    <file name="u1499-4.png" crc="127008113" ref="what-i-do:about"/>
+    <file name="u1514.png" crc="445430299" ref="what-i-do:about"/>
+    <file name="u1514-a.png" crc="278639327" ref="what-i-do:about"/>
+    <file name="u1506.png" crc="4201827137" ref="what-i-do:about"/>
+    <file name="u1506-a.png" crc="235908939" ref="what-i-do:about"/>
+    <file name="u1518.png" crc="4007410078" ref="what-i-do:about"/>
+    <file name="u1518-a.png" crc="4032516451" ref="what-i-do:about"/>
+    <file name="u1528.png" crc="4252400828" ref="what-i-do:about"/>
+    <file name="u1528-r.png" crc="4252400828" ref="what-i-do:about"/>
+    <file name="u1528-a.png" crc="4252400828" ref="what-i-do:about"/>
+    <file name="fab academy tapan.png" crc="141485170" seo="true" ref="what-i-do">
+      <caption webpage="what-i-do" alt=""/>
+    </file>
+    <file name="chello logo-crop-u1413.jpg" crc="133944420" seo="true" ref="what-i-do">
+      <caption webpage="what-i-do" alt=""/>
+    </file>
+    <file name="encubelogo.jpg" crc="3860344879" seo="true" ref="what-i-do">
+      <caption webpage="what-i-do" alt=""/>
+    </file>
+    <file name="cept-f1f3057496-crop-u1456.jpg" crc="4032502846" seo="true" ref="what-i-do">
+      <caption webpage="what-i-do" alt=""/>
+    </file>
+    <file name="ljsa-crop-u1466.jpg" crc="4078574469" seo="true" ref="what-i-do">
+      <caption webpage="what-i-do" alt=""/>
+    </file>
+    <file name="fab-lab cept-crop-u1476.png" crc="348443395" seo="true" ref="what-i-do">
+      <caption webpage="what-i-do" alt=""/>
+    </file>
     <file name="img_20181028_080204-crop-u1153.jpg" crc="4007814155" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3780797406" seo="true" mt="1553512180672" redirect="true"/>
-  <file name="what-i-do.html" crc="133728607" seo="true" mt="1553512180676" redirect="true"/>
-  <file name="about.html" crc="152447591" seo="true" mt="1553512288295" redirect="true"/>
+  <file name="index.html" crc="4217196777" seo="true" mt="1553512180672" redirect="true"/>
+  <file name="what-i-do.html" crc="189592615" seo="true" mt="1553568587896" redirect="true"/>
+  <file name="about.html" crc="4155855747" seo="true" mt="1553568587896" redirect="true"/>
 </manifest>
